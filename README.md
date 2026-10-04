@@ -6,7 +6,7 @@ Sanity CMS so the studio can update projects and content without code.
 
 🔗 **Live site:** https://www.blockhousedesigncompany.com
 
-![Homepage screenshot](Html → Body.png)
+![Homepage screenshot](Html-→-Body.png)
 
 ## About
 blockHouse Design Company designs architecture and interior spaces for
